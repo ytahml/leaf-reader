@@ -1,0 +1,25 @@
+/* ═══════════════════════════════════════════
+   青禾护眼主题 (Eye Care) — Leaf 阅读器
+   独家护眼主题，自然绿意融入阅读
+   ═══════════════════════════════════════════ */
+
+[data-theme="eyecare"] {
+  --bg-primary: #f0ead6;
+  --bg-secondary: #e8e2c8;
+  --bg-tertiary: #dcd6b8;
+  --text-primary: #3d3829;
+  --text-secondary: #5a5340;
+  --text-tertiary: #8a8270;
+  --accent: #7a8c5e;
+  --accent-soft: #95a87a;
+  --accent-warm: #c4a882;
+  --border: rgba(61, 56, 41, 0.08);
+  --shadow-soft: 0 2px 40px rgba(61, 56, 41, 0.06);
+  --shadow-medium: 0 8px 60px rgba(61, 56, 41, 0.1);
+  --shadow-elevated: 0 20px 80px rgba(61, 56, 41, 0.12);
+
+  /* Title bar dots */
+  --dot-red: #e8a0a0;
+  --dot-yellow: #e8d4a0;
+  --dot-green: #a0c8a0;
+}

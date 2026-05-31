@@ -1,0 +1,25 @@
+/* ═══════════════════════════════════════════
+   夜读主题 (Dark) — Leaf 阅读器
+   深邃沉静，适合夜晚沉浸阅读
+   ═══════════════════════════════════════════ */
+
+[data-theme="dark"] {
+  --bg-primary: #1a1918;
+  --bg-secondary: #242322;
+  --bg-tertiary: #2e2d2c;
+  --text-primary: #c8c3bb;
+  --text-secondary: #9a9590;
+  --text-tertiary: #6a6560;
+  --accent: #8fa07e;
+  --accent-soft: #6b7c5e;
+  --accent-warm: #c4a882;
+  --border: rgba(200, 195, 187, 0.08);
+  --shadow-soft: 0 2px 40px rgba(0, 0, 0, 0.2);
+  --shadow-medium: 0 8px 60px rgba(0, 0, 0, 0.3);
+  --shadow-elevated: 0 20px 80px rgba(0, 0, 0, 0.4);
+
+  /* Title bar dots */
+  --dot-red: #e8a0a0;
+  --dot-yellow: #e8d4a0;
+  --dot-green: #a0c8a0;
+}

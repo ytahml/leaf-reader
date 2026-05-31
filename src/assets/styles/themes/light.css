@@ -1,0 +1,27 @@
+/* ═══════════════════════════════════════════
+   晨光主题 (Light) — Leaf 阅读器
+   清爽明亮，适合白天窗边阅读
+   ═══════════════════════════════════════════ */
+
+[data-theme="light"],
+:root {
+  /* Warm paper palette */
+  --bg-primary: #f8f5f0;
+  --bg-secondary: #f0ebe3;
+  --bg-tertiary: #e8e2d8;
+  --text-primary: #2c2825;
+  --text-secondary: #5a534d;
+  --text-tertiary: #8a8279;
+  --accent: #6b7c5e;
+  --accent-soft: #8fa07e;
+  --accent-warm: #c4a882;
+  --border: rgba(44, 40, 37, 0.08);
+  --shadow-soft: 0 2px 40px rgba(44, 40, 37, 0.06);
+  --shadow-medium: 0 8px 60px rgba(44, 40, 37, 0.1);
+  --shadow-elevated: 0 20px 80px rgba(44, 40, 37, 0.12);
+
+  /* Title bar dots */
+  --dot-red: #e8a0a0;
+  --dot-yellow: #e8d4a0;
+  --dot-green: #a0c8a0;
+}
